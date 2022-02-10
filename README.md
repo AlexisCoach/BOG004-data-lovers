@@ -1,5 +1,5 @@
 # Data Lovers
-# Pílodora Git
+# Pílodora Git + Pull Request
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
