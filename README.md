@@ -1,5 +1,7 @@
 # Data Lovers
-# Pílodora Git
+# Pílodora Git + Pull Request
+# 2da pill
+# Desde la terminal
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
